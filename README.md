@@ -14,7 +14,7 @@ Um player de música web ultra fofo feito com amor para Anna! 💕
 
 ## 🎯 Como Usar
 
-1. Acesse: [https://amborguemusc.vercel.app](https://amborguemusc.vercel.app)
+1. Acesse: [https://amborgue-musc-love.vercel.app/)
 2. Para músicas locais:
    - Clique em "Adicionar Músicas" 🍓
    - Selecione seus arquivos de áudio
